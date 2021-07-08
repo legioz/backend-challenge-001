@@ -1,6 +1,6 @@
 ### Documentação
 
-[Documentação da API via OpenAPI3/Swagger](http://localhost/docs)
+[Documentação da API via OpenAPI3/Swagger](http://localhost/api/docs)
 
 
 ##### Estrutura do .env no diretório /src 
