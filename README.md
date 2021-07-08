@@ -50,9 +50,9 @@ BOA SORTE!
 
 - [resposta1](scripts/resposta1.sql)
 - [resposta2](scripts/resposta2.py)
--
--
-- 
+- [resposta3 - Implementado no código](src/users/api.py)
+- [resposta4 - Implementado no código](src/users/api.py)
+- [resposta5](scripts/resposta5.md)
 - [resposta6](scripts/resposta6.txt)
 - [resposta7](bot/bot.py)
 - [resposta8](scripts/resposta8.txt)
