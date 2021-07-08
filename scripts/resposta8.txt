@@ -1,0 +1,1 @@
+Para tratativa de mensagens seria interessante implementar um serviço de mensageria utilizando filas como o RabbitMQ e manter a execução das tarefas background desacopladas da aplicação
