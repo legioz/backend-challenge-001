@@ -1,1 +1,2 @@
-O valor do atributo/var WALLET_X_TOKEN_MAX_AGE não foi definido corretamente, isto pode estar causando o erro descrito no log
+O valor do atributo/var WALLET_X_TOKEN_MAX_AGE não foi definido corretamente, isto pode estar causando o erro descrito no log.
+Possívelmente a váriavel WALLET_X_TOKEN_MAX_AGE está descrita no .env do ambiente de desenvolvimento/homologação.
