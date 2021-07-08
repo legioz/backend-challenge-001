@@ -268,3 +268,4 @@ modules-enabled
 upload/
 mail/
 job/
+.vscode
