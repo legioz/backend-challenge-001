@@ -47,3 +47,12 @@ AttributeError: module 'core.settings' has no attribute ‘WALLET_X_TOKEN_MAX_AG
 BOA SORTE!
 
 # Respostas
+
+1 - [scripts/resposta1.sql][resposta1]
+2 - [scripts/resposta2.py][resposta2]
+3 -
+4 -
+5 - 
+6 - [scripts/resposta6.txt][resposta6]
+7 - [bot/bot.py][resposta7]
+8 - [scripts/resposta8.txt][resposta8]
