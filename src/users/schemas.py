@@ -32,13 +32,13 @@ class UserOut(Schema):
 
 
 class ClaimIn(Schema):
-    description: int
+    description: str
     is_active: bool=None
 
 
 class ClaimOut(Schema):
     id: int
-    description: int
+    description: str
     is_active: bool
 
 
